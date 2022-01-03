@@ -38,3 +38,15 @@ OUTPUT:
 
 
 
+
+
+NOTE YOU CAN ADD RATE FUNCTION FOR USER RATING YOUR APP ON GOOGLE PLAY:
+
+
+                   Application.OpenURL ("market://details?id=" + Application.productName);
+
+
+
+
+
+
